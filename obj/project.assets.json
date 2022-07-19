@@ -1038,11 +1038,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Dados_Pessoais\\02 - Estudos-Programação\\MongoDB\\APIMongoDB\\MongoDBAPIC#.csproj",
+      "projectUniqueName": "d:\\Dados_Pessoais\\02 - Estudos-Programação\\MongoDB\\APIs\\API_mongoDB\\APIMongoDB\\MongoDBAPIC#.csproj",
       "projectName": "MongoDBAPIC#",
-      "projectPath": "d:\\Dados_Pessoais\\02 - Estudos-Programação\\MongoDB\\APIMongoDB\\MongoDBAPIC#.csproj",
+      "projectPath": "d:\\Dados_Pessoais\\02 - Estudos-Programação\\MongoDB\\APIs\\API_mongoDB\\APIMongoDB\\MongoDBAPIC#.csproj",
       "packagesPath": "C:\\Users\\ventu\\.nuget\\packages\\",
-      "outputPath": "d:\\Dados_Pessoais\\02 - Estudos-Programação\\MongoDB\\APIMongoDB\\obj\\",
+      "outputPath": "d:\\Dados_Pessoais\\02 - Estudos-Programação\\MongoDB\\APIs\\API_mongoDB\\APIMongoDB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ventu\\AppData\\Roaming\\NuGet\\NuGet.Config",
