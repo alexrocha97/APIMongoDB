@@ -1,0 +1,15 @@
+C:\Users\ventu\OneDrive\Área de Trabalho\APIMongo\APIMongoDB\mongo.Infra\bin\Debug\net6.0\mongo.Infra.deps.json
+C:\Users\ventu\OneDrive\Área de Trabalho\APIMongo\APIMongoDB\mongo.Infra\bin\Debug\net6.0\mongo.Infra.dll
+C:\Users\ventu\OneDrive\Área de Trabalho\APIMongo\APIMongoDB\mongo.Infra\bin\Debug\net6.0\mongo.Infra.pdb
+C:\Users\ventu\OneDrive\Área de Trabalho\APIMongo\APIMongoDB\mongo.Infra\bin\Debug\net6.0\mongo.Domain.dll
+C:\Users\ventu\OneDrive\Área de Trabalho\APIMongo\APIMongoDB\mongo.Infra\bin\Debug\net6.0\mongo.Domain.pdb
+C:\Users\ventu\OneDrive\Área de Trabalho\APIMongo\APIMongoDB\mongo.Infra\obj\Debug\net6.0\mongo.Infra.csproj.AssemblyReference.cache
+C:\Users\ventu\OneDrive\Área de Trabalho\APIMongo\APIMongoDB\mongo.Infra\obj\Debug\net6.0\mongo.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ventu\OneDrive\Área de Trabalho\APIMongo\APIMongoDB\mongo.Infra\obj\Debug\net6.0\mongo.Infra.AssemblyInfoInputs.cache
+C:\Users\ventu\OneDrive\Área de Trabalho\APIMongo\APIMongoDB\mongo.Infra\obj\Debug\net6.0\mongo.Infra.AssemblyInfo.cs
+C:\Users\ventu\OneDrive\Área de Trabalho\APIMongo\APIMongoDB\mongo.Infra\obj\Debug\net6.0\mongo.Infra.csproj.CoreCompileInputs.cache
+C:\Users\ventu\OneDrive\Área de Trabalho\APIMongo\APIMongoDB\mongo.Infra\obj\Debug\net6.0\mongo.Infra.csproj.CopyComplete
+C:\Users\ventu\OneDrive\Área de Trabalho\APIMongo\APIMongoDB\mongo.Infra\obj\Debug\net6.0\mongo.Infra.dll
+C:\Users\ventu\OneDrive\Área de Trabalho\APIMongo\APIMongoDB\mongo.Infra\obj\Debug\net6.0\refint\mongo.Infra.dll
+C:\Users\ventu\OneDrive\Área de Trabalho\APIMongo\APIMongoDB\mongo.Infra\obj\Debug\net6.0\mongo.Infra.pdb
+C:\Users\ventu\OneDrive\Área de Trabalho\APIMongo\APIMongoDB\mongo.Infra\obj\Debug\net6.0\ref\mongo.Infra.dll

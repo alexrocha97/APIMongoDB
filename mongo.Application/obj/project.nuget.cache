@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+gZ/387J6JWPq/vIWGqZSsmMdA6lvaVY7m6Mc/iFdN8LVcMUW086vjWUMFMgouFKB56q5x01gAeEy38E0QIcbw==",
+  "dgSpecHash": "e71xQV0nyYPbXPpsW2QQY6udcK6F67QDhxFgKzVtiJmHEXx6E7MOjWEHvsB+QN3Y6NRFinO9Lo6XuKtUi0qqPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ventu\\OneDrive\\Área de Trabalho\\APIMongo\\APIMongoDB\\mongo.Application\\mongo.Application.csproj",
+  "projectFilePath": "c:\\Users\\ventu\\OneDrive\\Área de Trabalho\\APIMongo\\APIMongoDB\\mongo.Application\\mongo.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
