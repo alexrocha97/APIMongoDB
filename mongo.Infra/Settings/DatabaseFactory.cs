@@ -16,17 +16,18 @@ namespace mongo.Infra.Settings
             this.connectionStringSettings = connectionStringSettings;
         }
 
-        protected string MongoConnectionString{
-            get{
+        protected string MongoConnectionString {
+            get 
+            { 
                 var connString = Environment.GetEnvironmentVariable(MongoConnection);
-                if(String.IsNullOrEmpty(connString))
-                    connString = 
-                    !string.IsNullOrEmpty(connectionStringSettings.Value.MongoDbConnection) 
-                        ? connectionStringSettings.Value.MongoDbConnection : 
-                        AppSettings.GetAppSettingsConfig.GetConnectionString(MongoConnection);
+
+                if (String.IsNullOrEmpty(connString))
+                    connString = !string.IsNullOrEmpty(connectionStringSettings.Value.MongoDbConnection) ?
+                                                        connectionStringSettings.Value.MongoDbConnection :
+                                                        AppSettings.GetAppSettingsConfig.GetConnectionString(MongoConnection);
                 return connString;
             }
-        }
+        }  
 
         protected string MongoDataBase {
             get
@@ -41,8 +42,7 @@ namespace mongo.Infra.Settings
             }
         }
 
-        public IMongoClient GetDbConnectionMongo => new MongoClient(MongoConnection);
-
+        public IMongoClient GetDbConnectionMongo => new MongoClient(MongoConnectionString);
         public string GetdbName => MongoDataBase;
     }
 }

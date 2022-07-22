@@ -10,7 +10,6 @@ namespace mongo.Infra.Data.Base
     {
         protected readonly IMongoCollection<TDocument> _collection;
         protected readonly IMongoDatabase _database;
-
         private readonly IDatabaseFactory _settings; 
 
         public MongoRepository(IDatabaseFactory settings, string nomeCollection)
