@@ -1,0 +1,17 @@
+C:\Users\ventu\OneDrive\Área de Trabalho\APIMongo\APIMongoDB\mongo.Application\bin\Debug\net6.0\mongo.Application.deps.json
+C:\Users\ventu\OneDrive\Área de Trabalho\APIMongo\APIMongoDB\mongo.Application\bin\Debug\net6.0\mongo.Application.dll
+C:\Users\ventu\OneDrive\Área de Trabalho\APIMongo\APIMongoDB\mongo.Application\bin\Debug\net6.0\mongo.Application.pdb
+C:\Users\ventu\OneDrive\Área de Trabalho\APIMongo\APIMongoDB\mongo.Application\bin\Debug\net6.0\mongo.Domain.dll
+C:\Users\ventu\OneDrive\Área de Trabalho\APIMongo\APIMongoDB\mongo.Application\bin\Debug\net6.0\mongo.Infra.dll
+C:\Users\ventu\OneDrive\Área de Trabalho\APIMongo\APIMongoDB\mongo.Application\bin\Debug\net6.0\mongo.Domain.pdb
+C:\Users\ventu\OneDrive\Área de Trabalho\APIMongo\APIMongoDB\mongo.Application\bin\Debug\net6.0\mongo.Infra.pdb
+C:\Users\ventu\OneDrive\Área de Trabalho\APIMongo\APIMongoDB\mongo.Application\obj\Debug\net6.0\mongo.Application.csproj.AssemblyReference.cache
+C:\Users\ventu\OneDrive\Área de Trabalho\APIMongo\APIMongoDB\mongo.Application\obj\Debug\net6.0\mongo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ventu\OneDrive\Área de Trabalho\APIMongo\APIMongoDB\mongo.Application\obj\Debug\net6.0\mongo.Application.AssemblyInfoInputs.cache
+C:\Users\ventu\OneDrive\Área de Trabalho\APIMongo\APIMongoDB\mongo.Application\obj\Debug\net6.0\mongo.Application.AssemblyInfo.cs
+C:\Users\ventu\OneDrive\Área de Trabalho\APIMongo\APIMongoDB\mongo.Application\obj\Debug\net6.0\mongo.Application.csproj.CoreCompileInputs.cache
+C:\Users\ventu\OneDrive\Área de Trabalho\APIMongo\APIMongoDB\mongo.Application\obj\Debug\net6.0\mongo.Application.csproj.CopyComplete
+C:\Users\ventu\OneDrive\Área de Trabalho\APIMongo\APIMongoDB\mongo.Application\obj\Debug\net6.0\mongo.Application.dll
+C:\Users\ventu\OneDrive\Área de Trabalho\APIMongo\APIMongoDB\mongo.Application\obj\Debug\net6.0\refint\mongo.Application.dll
+C:\Users\ventu\OneDrive\Área de Trabalho\APIMongo\APIMongoDB\mongo.Application\obj\Debug\net6.0\mongo.Application.pdb
+C:\Users\ventu\OneDrive\Área de Trabalho\APIMongo\APIMongoDB\mongo.Application\obj\Debug\net6.0\ref\mongo.Application.dll

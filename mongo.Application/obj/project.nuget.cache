@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "isAVQxUt6NRdiiLlBykgRrfx0aktvickhurlOOKDe53AFitaNYtyL6fhSaN0Jq6CT+pTpLWNQiJTvCw71WNK0w==",
+  "dgSpecHash": "VuozXYtXSj7NM0fHTZxgf7/DdDOGOFz9QQjw9D6ogf6G+gLA4rbAQsOW4vJVfms9wate1MTNaOa7qLHtBxV9QQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\ventu\\OneDrive\\Área de Trabalho\\APIMongo\\APIMongoDB\\mongo.Application\\mongo.Application.csproj",
+  "projectFilePath": "C:\\Users\\ventu\\OneDrive\\Área de Trabalho\\APIMongo\\APIMongoDB\\mongo.Application\\mongo.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ventu\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\ventu\\.nuget\\packages\\azure.core\\1.6.0\\azure.core.1.6.0.nupkg.sha512",

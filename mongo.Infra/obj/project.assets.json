@@ -7668,11 +7668,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\ventu\\OneDrive\\Área de Trabalho\\APIMongo\\APIMongoDB\\mongo.Infra\\mongo.Infra.csproj",
+      "projectUniqueName": "C:\\Users\\ventu\\OneDrive\\Área de Trabalho\\APIMongo\\APIMongoDB\\mongo.Infra\\mongo.Infra.csproj",
       "projectName": "mongo.Infra",
-      "projectPath": "c:\\Users\\ventu\\OneDrive\\Área de Trabalho\\APIMongo\\APIMongoDB\\mongo.Infra\\mongo.Infra.csproj",
+      "projectPath": "C:\\Users\\ventu\\OneDrive\\Área de Trabalho\\APIMongo\\APIMongoDB\\mongo.Infra\\mongo.Infra.csproj",
       "packagesPath": "C:\\Users\\ventu\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\ventu\\OneDrive\\Área de Trabalho\\APIMongo\\APIMongoDB\\mongo.Infra\\obj\\",
+      "outputPath": "C:\\Users\\ventu\\OneDrive\\Área de Trabalho\\APIMongo\\APIMongoDB\\mongo.Infra\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ventu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7690,8 +7690,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "c:\\Users\\ventu\\OneDrive\\Área de Trabalho\\APIMongo\\APIMongoDB\\mongo.Domain\\mongo.Domain.csproj": {
-              "projectPath": "c:\\Users\\ventu\\OneDrive\\Área de Trabalho\\APIMongo\\APIMongoDB\\mongo.Domain\\mongo.Domain.csproj"
+            "C:\\Users\\ventu\\OneDrive\\Área de Trabalho\\APIMongo\\APIMongoDB\\mongo.Domain\\mongo.Domain.csproj": {
+              "projectPath": "C:\\Users\\ventu\\OneDrive\\Área de Trabalho\\APIMongo\\APIMongoDB\\mongo.Domain\\mongo.Domain.csproj"
             }
           }
         }
