@@ -107,3 +107,7 @@ db.books.updateMany(
 // DELETE
 // Sintaxe
 db.books.deleteOne({_id: 20});
+// Deletar varios documentos
+db.books.deleteMany({categories: "Java"})
+// Remover todos registro de uma collection
+db.books.deleteMany({})
