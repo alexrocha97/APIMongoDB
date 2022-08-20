@@ -47,4 +47,14 @@ footer{
     {
         padding: 30px;
     }
+
+    #main-container td
+    {
+        height: 70px;
+    }
+
+    #main-container .btn
+    {
+        height: 40px;
+    }
 }

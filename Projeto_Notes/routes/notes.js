@@ -39,6 +39,22 @@ router.get('/edit/:id', async function(req, res)
     res.render('notes/edit', {note})
 })
 
+// Edição de notas
+router.post('/update', function(req, res)
+{
+    const data = req.body;
+    const id = new ObjectId(data.id);
+    const title = data.title;
+    const description = data.description;
+
+    db.getDb()
+    .db()
+    .collection('notes')
+    .updateOne(
+        { _id: id },{ title: title, description: description })
+
+    res.redirect(301, '/')
+});
 // DELETE
 router.post('/delete', function(req, res)
 {
